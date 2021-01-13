@@ -1,0 +1,5 @@
+[1029/153935.137:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1029/154935.143:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1029/154935.144:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1029/154935.145:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1029/154935.146:ERROR:crash_report_database_win.cc(457)] unexpected header
