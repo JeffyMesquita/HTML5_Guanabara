@@ -1,0 +1,17 @@
+A linguagem HTML é focada em conteúdo:
+	Texto
+	Imagem
+	Video
+	Tabela
+
+Atrativo Visual(CSS - Design)
+	Posicionamento
+	Cor
+	Formato
+	Sombras
+	Tamanho
+
+JavaScript(JS - Interações)
+	Menus
+	Animações
+	Popups
